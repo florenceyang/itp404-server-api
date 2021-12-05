@@ -1,60 +1,32 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": "0",
-      "title": "Post 0",
+      "title": "Grocery Shop",
       "body": "Body 0",
-      "categoryId": "1",
-      "authorId": "0"
+      "categoryId": "1"
     },
     {
       "id": "1",
-      "title": "Post 1",
+      "title": "Do Homework",
       "body": "Body 1",
-      "categoryId": "0",
-      "authorId": "0"
+      "categoryId": "0"
+    },
+    {
+      "id": "2",
+      "title": "Do Chores",
+      "body": "Body 2",
+      "categoryId": "1"
     }
   ],
   "categories": [
     {
       "id": "0",
-      "name": "Tech"
+      "name": "School"
     },
     {
       "id": "1",
-      "name": "Financial Independence"
-    },
-    {
-      "id": "2",
-      "name": "Retirement"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "authors": [
-    {
-      "id": "0",
-      "name": "David Tang"
+      "name": "Personal"
     }
   ]
 }
