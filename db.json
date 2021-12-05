@@ -1,28 +1,36 @@
 {
   "tasks": [
     {
-      "id": "0",
+      "title": "Example Task",
+      "body": "Here's a description of the task",
+      "is_bookmarked": true,
+      "time_bookmarked": "Sun Dec 05 2021 01:01:36 GMT-0800 (Pacific Standard Time)",
+      "to_do_day": "Monday",
+      "id": "0"
+    },
+    {
       "title": "Grocery Shop",
-      "notes": "Body 0",
-      "is_bookmarked": "yes",
-      "time_bookmarked": "12/4/2021 6:22pm",
-      "to_do_day": "Monday"
+      "body": "Body 0",
+      "is_bookmarked": true,
+      "time_bookmarked": "Sun Dec 05 2021 01:01:36 GMT-0800 (Pacific Standard Time)",
+      "to_do_day": "Monday",
+      "id": "1"
     },
     {
-      "id": "1",
       "title": "Do Homework",
-      "notes": "Body 1",
-      "is_bookmarked": "no",
+      "body": "Body 1",
+      "is_bookmarked": false,
       "time_bookmarked": "",
-      "to_do_day": "Tuesday"
+      "to_do_day": "Tuesday",
+      "id": "2"
     },
     {
-      "id": "2",
       "title": "Do Chores",
-      "notes": "Body 2",
-      "is_bookmarked": "yes",
-      "time_bookmarked": "12/3/2021 3:30pm",
-      "to_do_day": "Wednesday"
+      "body": "Body 2",
+      "is_bookmarked": false,
+      "time_bookmarked": "",
+      "to_do_day": "Wednesday",
+      "id": "3"
     }
   ]
 }
