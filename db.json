@@ -3,30 +3,23 @@
     {
       "id": "0",
       "title": "Grocery Shop",
-      "body": "Body 0",
-      "categoryId": "1"
+      "notes": "Body 0",
+      "is_bookmarked": "yes",
+      "time_bookmarked": "12/4/2021 6:22pm"
     },
     {
       "id": "1",
       "title": "Do Homework",
-      "body": "Body 1",
-      "categoryId": "0"
+      "notes": "Body 1",
+      "is_bookmarked": "no",
+      "time_bookmarked": ""
     },
     {
       "id": "2",
       "title": "Do Chores",
-      "body": "Body 2",
-      "categoryId": "1"
-    }
-  ],
-  "categories": [
-    {
-      "id": "0",
-      "name": "School"
-    },
-    {
-      "id": "1",
-      "name": "Personal"
+      "notes": "Body 2",
+      "is_bookmarked": "yes",
+      "time_bookmarked": "12/3/2021 3:30pm"
     }
   ]
 }
