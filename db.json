@@ -31,6 +31,38 @@
       "time_bookmarked": "",
       "to_do_day": "Wednesday",
       "id": "3"
+    },
+    {
+      "title": "Thursday's Example Task",
+      "body": "example for thursday",
+      "is_bookmarked": true,
+      "time_bookmarked": "Sun Dec 05 2021 01:01:36 GMT-0800 (Pacific Standard Time)",
+      "to_do_day": "Thursday",
+      "id": "4"
+    },
+    {
+      "title": "Friday's Example Task",
+      "body": "example for friday",
+      "is_bookmarked": false,
+      "time_bookmarked": "",
+      "to_do_day": "Friday",
+      "id": "5"
+    },
+    {
+      "title": "Saturday's Example Task",
+      "body": "example for saturday",
+      "is_bookmarked": false,
+      "time_bookmarked": "",
+      "to_do_day": "Saturday",
+      "id": "6"
+    },
+    {
+      "title": "Sunday's Example Task",
+      "body": "example for sunday",
+      "is_bookmarked": true,
+      "time_bookmarked": "Sun Dec 05 2021 01:01:36 GMT-0800 (Pacific Standard Time)",
+      "to_do_day": "Sunday",
+      "id": "7"
     }
   ]
 }
